@@ -1,0 +1,24 @@
+.it{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    /* padding:2vh 2vw; */
+}
+.it li{
+    margin: 2vh 2vw;
+    text-align:center;
+    padding: 2vh 2vw;
+    width:250px;
+    word-wrap:break-word;
+    background-color: white;
+    display: block;
+    border-radius: 7px;
+}
+.link{
+    text-decoration: none;
+    color: black;
+}
+
+.it li:hover{
+    box-shadow: 10px 10px 8px #888888;
+}

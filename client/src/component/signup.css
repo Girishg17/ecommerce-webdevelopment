@@ -1,0 +1,26 @@
+.total{
+    background-color: white;
+    margin: 3vh 25vw;
+    border-radius: 7px;
+    text-align: center;
+    
+}
+.formDiv h1{
+    font-family: 'Roboto Mono', monospace;
+}
+
+.form input{
+    margin: 2vh 2vw;
+    border-right: 0;
+    border-left: 0;
+    border-top: 0;
+    border-radius: 5px;
+    font-family: 'Inter', sans-serif;
+    padding: 1vh 1vw;
+}
+.form button{
+    margin:2vh 1vw;
+    padding: 1vh 1vw;
+    font-family: 'Roboto Mono', monospace;
+    border-radius: 3px;
+}

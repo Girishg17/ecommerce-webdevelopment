@@ -1,0 +1,17 @@
+.ul li{
+    display: inline-block;
+    padding: 2vh 1vw;
+
+    /* text-decoration: none; */
+}
+.a{
+    text-decoration: none;
+    color: white;
+}
+.ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2vh 0.5vw 0 0.5vw;
+    margin:0;
+}

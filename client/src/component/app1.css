@@ -1,0 +1,13 @@
+.show{
+    background-color: aqua;
+    
+}
+
+.dontshow{
+    display : none;
+    /* visibility: hidden; */
+}
+/* .mobiles:hover{
+background-color: #FF1493;
+
+} */
